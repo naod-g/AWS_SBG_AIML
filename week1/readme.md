@@ -7,20 +7,5 @@
 - `src/clean.py` — named cleaning functions
 - `src/process.py` — NumPy calculations
 - `notebooks/week01_analysis.ipynb` — runnable notebook
-- `requirements.txt` — includes `numpy`
 
-## Create a venv
 
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-```
-
-## Run the notebook
-
-```bash
-jupyter notebook notebooks/week01_analysis.ipynb
-```
-
-Run all cells from top to bottom. Saved cell outputs should already be present in the committed notebook.
