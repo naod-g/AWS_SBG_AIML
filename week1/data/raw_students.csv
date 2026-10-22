@@ -1,0 +1,16 @@
+name,age,city,score,hours_studied
+  Ada Lovelace,36,london,88,12
+Alan Turing,41,CAMBRIDGE,91,14
+Grace Hopper,85,New York,95,10
+ada lovelace,36,london,88,12
+Katherine Johnson, ,Hampton,97,11
+Donald Knuth,abc,Stanford,84,9
+Margaret Hamilton,27,boston,102,16
+Linus Torvalds,21,Helsinki,,8
+Guido van Rossum,35,Amsterdam,79,7
+Bjarne Stroustrup,30,Aarhus,86,13
+Alice,19,Paris,-5,4
+Bob,22,berlin,73,6
+Carol,,London,81,9
+Dave,24,OXFORD,NA,15
+Eve,20,cambridge,90,12
